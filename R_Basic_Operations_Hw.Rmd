@@ -3,8 +3,9 @@
 
 1.  Create two strings with your first and last name, respectively. Then concatenate them, and print the new value as "My name is \<your newly created concatenated variable will go here\>"
 
-print(paste("My name is", "Omar", "Barrera"))
-
+first_name <- "Omar"
+last_name <- "Barrera"
+print(paste("My name is", first_name, last_name))
 
 2.  What values can a BOOLEAN contain?
 
